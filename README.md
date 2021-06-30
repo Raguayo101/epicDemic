@@ -9,6 +9,8 @@
   * [Test](#tests)
   * [Questions](#questions)
 
+PRESENTATION: https://docs.google.com/presentation/d/1WThqquu6PGEP9wiaWFHqp2vzXuZScM2LlCzIcJ8o8vs/edit?usp=sharing
+
   ## Description
   OUTBREAK is an online deduction game based off of the popular party game Werewolf. Outbreak is an online deduction game based off of the popular party game Werewolf. Each player will be assigned a role and will attempt to deduce who the zombies are and exile them from the camp before they eat enough players to become overrun them. 
   
